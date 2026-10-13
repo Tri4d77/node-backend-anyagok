@@ -1,0 +1,7 @@
+{
+  "name": "modul-pelda",
+  "version": "1.0.0",
+  "description": "Bemutato peldak az ESM import/export hasznalatahoz",
+  "type": "module",
+  "private": true
+}

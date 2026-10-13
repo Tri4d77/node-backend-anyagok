@@ -1,0 +1,6 @@
+{
+  "alkalmazas": "Modul-bemutató",
+  "verzio": "1.0.0",
+  "port": 3000,
+  "funkciok": ["import", "export", "újraexport"]
+}
