@@ -1,0 +1,11 @@
+{
+  "name": "geometria-feladat",
+  "version": "1.0.0",
+  "description": "Egyfajlos program modulokra bontasahoz - geometriai szamitasok",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "start": "node index.js",
+    "megoldas": "node megoldas/index.js"
+  }
+}
